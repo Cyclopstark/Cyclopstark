@@ -45,7 +45,7 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 <!-- frameworks. added api calls to compact cards -->
 
 ## Languages :computer: and Frameworks I Love :heart:
-<img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/> <img src = 'images/cpp.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/> <img src='images/numpy.png' height='60' /> <img src='images/bash.png' height='60' /> <img src='images/pandas.png' height='60' /> <img src='images/qiskit.jpg' height='60' /> <img src='images/tkinter.jpg' height='60' /> <img src='images/docker.png' height='60' />
+<img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/> <img src = 'images/cpp.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/> <img src='images/numpy.png' height='60' /> <img src='images/bash.png' height='60' /> <img src='images/pandas.png' height='60' /> <img src='images/qiskit.jpg' height='60' /> <img src='images/tkinter.jpg' height='60' /> <img src='images/docker.png' height='60' /> <img src='images/keras.png' height='60' /> <img src='images/firebase.png' height='60' /> <img src='images/react.png' height='60' />
 
 ##
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
@@ -68,7 +68,7 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
-Feel free to shoot a mail to : **anshsarkar18@gmail.**
+Feel free to shoot a mail to : **anshsarkar18@gmail.com** .
 Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
 You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
 
